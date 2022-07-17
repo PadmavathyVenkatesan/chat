@@ -1,0 +1,18 @@
+nav.navbar,
+.navbar-default {
+  background-color: #7263bc !important;
+}
+
+.mb-50 {
+  margin-bottom: 200px;
+}
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+
+a,
+a:hover {
+  color: #fff !important;
+  text-decoration: none;
+  padding: 10px;
+}
